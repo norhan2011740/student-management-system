@@ -1,0 +1,6 @@
+First	Last	ID	Gender	Year	GPA
+mohamed	khalid	1234567	m	5	3.50
+norhan	sameh	3333333	f	3	2.30
+Mohamed	Akmal	9999999	M	5	3.01
+Shahd	Ashraf	6666666	M	3	2.70
+Youssef	Tarek	4444444	M	4	3.00
